@@ -14,3 +14,26 @@
   color: #d847f1;
   font-weight: bold;
 }
+
+#btn-login {
+  color: #fff;
+}
+.social-icon:hover {
+  color: #d847f1;
+}
+
+.btn-1a:hover,
+.btn-1a:active {
+  color: #9c27b0 !important;
+  background: #fff !important;
+}
+
+nav ul a:hover {
+  color: #d847f1;
+}
+
+.btn-1b:hover,
+.btn-1b:active {
+  color: #fff !important;
+  background: #9c27b0 !important;
+}
